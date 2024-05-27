@@ -14,5 +14,9 @@
   ],
   "author": "Ignasiya",
   "license": "ISC",
-  "description": "A simple NPM library with useful functions for working with arrays"
+  "description": "A simple NPM library with useful functions for working with arrays",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignasiya/array-utils"
+  }
 }
