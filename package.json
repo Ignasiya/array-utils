@@ -1,0 +1,18 @@
+{
+  "name": "ignasiya-array-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index"
+  },
+  "keywords": [
+    "array",
+    "utilities",
+    "manipulation",
+    "filtering",
+    "sorting"
+  ],
+  "author": "Ignasiya",
+  "license": "ISC",
+  "description": "A simple NPM library with useful functions for working with arrays"
+}
